@@ -1,31 +1,19 @@
-### OLÁ 👋
+# Pessoal
 
-Meu nome é Pedro Otávio e eu sou um desenvolvedor web front-end de Fortaleza, Ceará. Estudante de Ciências da Computação na Universidade Estadual do Ceará e em meu tempo livre pratico desenvolvimento web para me tornar um desenvolvedor de sucesso!
+Olá 👋 Tudo bem?
 
-### SOBRE
+👨‍💻 Desenvolvedor Front-End  
+📚 Estudante de Ciências da Computação  
+💡 Apaixonado pelo aprendizado contínuo em tecnologia  
 
-Sou apaixonado por criar experiências incríveis na web e estou constantemente buscando aprender e evoluir minhas habilidades como desenvolvedor. Meu foco principal está no desenvolvimento front-end, mas estou sempre interessado em explorar novas áreas e tecnologias.
+Meu [LinkedIn](https://www.linkedin.com/in/pedro-otavio-bezerra/)
 
-### HABILIDADES
+## Stacks
 
-![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
-![Sass](https://img.shields.io/badge/-Sass-232323?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=563D7C&logo=bootstrap&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-232323?style=flat&labelColor=F05032&logo=git&logoColor=ffffff)
-
-Evoluindo mais a cada dia!
-
-
-<!--
-
-**PedroOtavio21/PedroOtavio21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- Adcionar stacks que domino até o momento
-- Adcionar um sobre mais caprichado 
-- Evoluir mais a cada dia!
-
--->
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
