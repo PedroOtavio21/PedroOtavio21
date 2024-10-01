@@ -1,23 +1,15 @@
-# Pedro Otávio
-
-Olá 👋 Tudo bem?
-
-## Sobre Mim
-- 📚 **Estudante de Ciências da Computação**
-
-- 💻 **Desenvolvedor Fullstack**
-
-- ❤️ **Amante de Tecnologia**
-
-## Tecnologias
-![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/-Java-232323?style=flat&labelColor=000000&logo=java&logoColor=F7DF1C&logo=cafe)
-![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=000000&logo=python&logoColor=3776AB)
-![HTML](https://img.shields.io/badge/-HTML-232323?style=flat&labelColor=000000&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-232323?style=flat&labelColor=000000&logo=css3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-232323?style=flat&labelColor=000000&logo=sass&logoColor=CC6699)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=000000&logo=bootstrap&logoColor=563D7C)
+# 💫 Sobre Mim:
+🧑‍💻 Desenvolvedor FullStack<br>📗 Estudante de Ciências da Computação<br>💜 Amante de Tecnologia<br>🌱 Em aprendizado constante<br>
 
 
+## 🌐 Redes Sociais:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Pedroota_145) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-otavio-bezerra) 
 
-Meu perfil no [LinkedIn](https://www.linkedin.com/in/pedro-otavio-bezerra/)
+# 💻 Tecnologias:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PedroOtavio21&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PedroOtavio21&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOtavio21&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
